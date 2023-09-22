@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://650d61dad37e242c89d53bfe--hilarious-quokka-e3d3b0.netlify.app/](https://your-live-site-url.com)
+- Live Site URL: [https://650d61dad37e242c89d53bfe--hilarious-quokka-e3d3b0.netlify.app/](https://hilarious-quokka-e3d3b0.netlify.app/)
 
 ## My process
 
